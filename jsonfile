@@ -1,0 +1,56 @@
+{
+    "update_id": 255690037,
+    "callback_query": {
+        "id": "9077878746534217037",
+        "data": "release",
+        "from": {
+            "id": 2113608351,
+            "is_bot": false,
+            "last_name": "Singh",
+            "first_name": "Jitendra",
+            "language_code": "en"
+        },
+        "message": {
+            "chat": {
+                "id": 2113608351,
+                "type": "private",
+                "last_name": "Singh",
+                "first_name": "Jitendra"
+            },
+            "date": 1698552348,
+            "from": {
+                "id": 6903293209,
+                "is_bot": true,
+                "username": "Webseller_bot",
+                "first_name": "Webseller"
+            },
+            "text": "Enter a valid url",
+            "message_id": 395,
+            "reply_markup": {
+                "inline_keyboard": [
+                    [
+                        {
+                            "text": "Release",
+                            "callback_data": "release"
+                        },
+                        {
+                            "text": "Reject",
+                            "callback_data": "reject"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "Page5",
+                            "callback_data": "page5"
+                        },
+                        {
+                            "text": "Page6",
+                            "callback_data": "page6"
+                        }
+                    ]
+                ]
+            }
+        },
+        "chat_instance": "-1512826578313683566"
+    }
+}

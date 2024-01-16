@@ -1,0 +1,151 @@
+.close {
+    position: absolute;
+    right: -32px;
+    top: 2px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.lookup form {
+    margin-bottom: 4em;
+}
+
+.lookup form input.iin {
+    font-family: 'Courier New',monospace;
+    font-size: 1.6em;
+    padding: .3em .5em;
+    outline: none;
+    border-style: solid;
+    border-width: 0 0 1px 0;
+    border-color: #eee;
+    border-radius: 0;
+    background: #fff;
+    transition: border-color .2s;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.lookup form input.iin:focus {
+    border-color: #0078ff
+}
+
+.lookup form p {
+    margin-top: .2em;
+    font-weight: 300;
+    font-size: .75em;
+    color: rgba(0,0,0,0.4);
+    text-align: center
+}
+
+.lookup ul.result,.lookup ul.result ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.lookup ul.result li,.lookup ul.result ul li {
+    margin: 0;
+    padding: .75em 0 .75em 0
+}
+
+.lookup ul.result {
+    margin-top: 2em;
+    -moz-columns: auto 9em;
+    columns: auto 9em;
+    -moz-column-gap: 5em;
+    column-gap: 5em;
+}
+
+.lookup ul.result > * {
+    page-break-inside: avoid;
+    break-inside: avoid
+}
+
+.lookup ul.result h2 {
+    font-size: .75em;
+    text-transform: uppercase;
+    font-weight: 300;
+    /*color: rgba(0,0,0,0.4);*/
+    width: 100%
+}
+
+.lookup ul.result h3 {
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: .6em;
+    color: rgba(0,0,0,0.4)
+}
+
+.lookup ul.result p,.lookup ul.result ol {
+    margin-top: .1em;
+    color: #24292e
+}
+
+.lookup ul.result ul {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin: 0;
+}
+
+.lookup ul.result ul li {
+    padding: .5em 0 .1em 0
+}
+
+.lookup ul.result li.bank p.name,.lookup ul.result li.country p.name {
+    white-space: pre;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.lookup ul.result li.bank p.url,.lookup ul.result li.bank p.phone,.lookup ul.result li.country p.geo {
+    font-size: .75em
+}
+
+.lookup ul.result p.geo {
+    color: rgba(0,0,0,0.4);
+}
+
+.lookup ul.result p.geo span {
+    color: #24292e;
+    margin: 0 .1em
+}
+
+.lookup ul.result li.number {
+    max-width: 10em
+}
+
+.lookup ul.result p.any::after,.lookup ul.result span.any::after {
+    content: '?';
+    color: rgba(0,0,0,0.2)
+}
+
+.lookup ul.result ol {
+    padding: 0;
+}
+
+.lookup ul.result ol li {
+    display: inline;
+    margin: 0;
+}
+
+.lookup ul.result ol li::after,.lookup ul.result ol li:not(.selected) {
+    color: rgba(0,0,0,0.2);
+    font-weight: 300
+}
+
+.lookup ul.result ol li::after {
+    content: ' / '
+}
+
+.lookup ul.result ol li:last-child::after {
+    content: ''
+}

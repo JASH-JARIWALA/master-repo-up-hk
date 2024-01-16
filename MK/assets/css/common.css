@@ -1,0 +1,171 @@
+body a {
+    color: #dd4814
+}
+
+.page-business-client a,
+.page-business-client .bullet-list li:before,
+.page-business-client-link span,
+.page-business-client .accent-color {
+    color: #c60c30
+}
+
+.page-business-client .accent-bg {
+    background-color: #c60c30
+}
+
+.page-private-client a,
+.page-private-client .bullet-list li:before,
+.page-private-client-link span,
+.page-private-client .accent-color {
+    color: #f66603;
+}
+
+.page-private-client .accent-bg {
+    background-color: #ff6319
+}
+
+.page-omniva a,
+.page-omniva .bullet-list li:before,
+.page-omniva-link span,
+.page-omniva .accent-color {
+    color: #dd4814
+}
+
+.page-omniva .accent-bg {
+    background-color: #dd4814
+}
+
+.page-help a,
+.page-help .bullet-list li:before,
+.page-help-link span,
+.page-help .accent-color {
+    color: #f0016f
+}
+
+.page-help .accent-bg {
+    background-color: #f0016f
+}
+
+.page-business-client article.hero {
+    background-image: url(../img/hero/business/image1.jpg)
+}
+
+.page-private-client article.hero {
+    background-image: url(../img/hero/private/image1.jpg)
+}
+
+.page-omniva article.hero {
+    background-image: url(../img/hero/omniva/image1.jpg)
+}
+
+.page-help article.hero {
+    background-image: url(../img/hero/help/image1.jpg)
+}
+
+header:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 0;
+    visibility: hidden
+}
+
+aside,
+article,
+input,
+textarea,
+.btn,
+.footer-btn,
+.popup-wrap {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.quick-search,
+.client-type,
+article,
+.popup-wrap,
+.news-item a.read-more:before,
+#post_office_container,
+.custom-autocomplete-wrap,
+.accordion-tabs .accordion-content,
+.accordion-tabs h3:after,
+.matrix-container .matrix-content,
+.show-only-btn:after {
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    transition: all .3s ease
+}
+
+aside,
+section,
+.loading,
+.scroll-top {
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    transition: all .5s ease
+}
+
+.wrapped-content {
+    -webkit-transition: opacity .3s;
+    -moz-transition: opacity .3s;
+    transition: opacity .3s
+}
+
+.btn,
+footer button,
+.search-form-wrap,
+.aside-search,
+.small-search-form,
+.footer-btn,
+.news-item,
+.popup-content,
+.popup-trigger,
+.form-input-wrap input,
+.form-select-wrap,
+.selectable-box-group,
+.scroll-top,
+.news-item a.read-more:before,
+.definition-list dl.single-block,
+.wrapped-content,
+.message-error,
+.custom-autocomplete-wrap,
+.form-module .input-text input,
+.form-module .input-textarea textarea,
+.form-module .input-select {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px
+}
+
+.news-item .publication-date {
+    -webkit-border-top-left-radius: 4px;
+    -webkit-border-top-right-radius: 4px;
+    -moz-border-radius-topleft: 4px;
+    -moz-border-radius-topright: 4px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px
+}
+
+.btn,
+.search-form-wrap,
+.small-search-form form input,
+.form-select-wrap,
+.news-item,
+.scroll-top,
+.selectable-box-group,
+.definition-list dl.single-block,
+.wrapped-content,
+.message-error,
+.custom-autocomplete-wrap,
+.form-module .input-select {
+    -webkit-box-shadow: inset 0 -1px 1px 0 rgba(0, 0, 0, .15);
+    -moz-box-shadow: inset 0 -1px 1px 0 rgba(0, 0, 0, .15);
+    box-shadow: inset 0 -1px 1px 0 rgba(0, 0, 0, .15)
+}
+
+.btn,
+.search-form-wrap {
+    background-color: #ff6319
+}

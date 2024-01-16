@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+#livechat {
+    position: fixed;
+    overflow: hidden;
+    background: transparent;
+    z-index: 5000;
+    bottom: 0;
+    right: 0;
+    visibility: hidden;
+}
+#livechat iframe {
+    overflow: auto;
+    border: 0;
+    height: 450px;
+    width: 350px;
+    margin-bottom: 5px;
+    margin-right: 15px;
+    -webkit-overflow-scrolling: touch;
+    z-index: 3900;
+}
+@media only screen and (max-width: 600px) {
+    #livechat {
+        position: fixed;
+        bottom: 0;
+        left: 3px;
+        margin: auto auto auto auto;
+        height: 99%;
+        width: 100%;
+        z-index: 10;
+    }
+    #livechat iframe {
+        width: 100%;
+        height: 100%;
+    }
+}
+#ema-wrapper #ema-button{
+    display: flex;
+    height: 50px;
+    width: 50px;
+    margin: 0 5px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 4px 4px 30px #00000029;
+    transition: all 0.3s ease-out;
+    position: fixed;
+    bottom: 15px;
+    right: 30px;
+    z-index: 4001;
+    visibility: initial;
+}
+#ema-wrapper #ema-button:hover{
+    width: 250px;
+}
+#ema-wrapper #ema-button .ema-icon{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    min-width: 50px;
+    text-align: center;
+    border-radius: 50px;
+    box-sizing: border-box;
+    line-height: 50px;
+    transition: all 0.3s ease-out;
+}
+#ema-wrapper #ema-button .ema-icon i{
+    font-size: 25px;
+    line-height: 50px;
+    transition: all 0.3s ease-out;
+}
+#ema-wrapper #ema-button span{
+    color: #1D1816;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 50px;
+    margin-left: 10px;
+    transition: all 0.3s ease-out;
+}
+#ema-wrapper #ema-button span::before {
+    background-color: #FFB81C;
+    content: "";
+    display: block;
+    height: 2px;
+    width: 22px;
+    bottom: 12px;
+    position: absolute;
+    left: 70px;
+}
+.grecaptcha-badge {
+    width: 70px !important;
+    overflow: hidden !important;
+    transition: all 0.3s ease 0s !important;
+    left: -2px !important;
+    position: fixed !important;
+    bottom: 15px !important;
+    z-index: 4000;
+}
+.grecaptcha-badge:hover {
+    width: 256px !important;
+}
+.block-header-revert {
+    cursor: pointer;
+    padding: 5px 10px;
+    background-color: #1c1816;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    flex: 1;
+    margin: 0 10px;
+    line-height: 1rem;
+    height: 45px;
+}
+.block-header-revert:hover {
+    background-color: #d2981b;
+}
+.block-header-revert a {
+    color: #ffffff !important;
+}
+.block-header-revert a:hover {
+    color: #1c1816 !important;
+    text-decoration: none;
+}
+/*Menu horizontal*/
+.menu-horizontal-plataformas {
+    position: fixed;
+    z-index: 500;
+}
+
+.menu-horizontal-plataformas .logo_menu {
+    margin-left: 0px;
+}
+
+@media (max-width: 991.98px) {
+    .menu-horizontal-plataformas .logo_cobranding {
+        width: 210px;
+    }
+
+    .menu-horizontal-plataformas .logo_cobranding .titulo {
+        margin: 45px 0 0 74px;
+    }
+}
+
+.contenido {
+    margin-top: 60px;
+}
+
+@media (max-width: 991.98px) {
+    .contenido {
+        margin-top: 76px;
+    }
+}
+
+
+/*login_registro*/
+.login_registro {
+    display: none;
+    margin-top: 98px;
+    background-color: #eee;
+    margin-bottom: -60px; /*corrige el margin-top de la clase .slider"*/
+}
+
+.login_registro .close {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    right: 24px;
+    margin-top: 16px;
+}
+
+.login_registro .login,
+.login_registro .registro {
+    display: none;
+}
+
+@media (max-width: 991.98px) {
+    .login_registro {
+        margin-top: 76px;
+        margin-bottom: -76px; /*corrige el margin-top de la clase .slider"*/
+    }
+
+    .login_registro .close {
+        right: 16px;
+    }
+}

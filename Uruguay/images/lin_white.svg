@@ -1,0 +1,12 @@
+<svg width="30px" height="31px" viewBox="0 0 30 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="twitter">
+      <ellipse id="Oval" fill="#262477" cx="15" cy="15.172" rx="15" ry="15.172"></ellipse>
+      <path
+        id="LinkedIn"
+        fill="#ffffff"
+        d="M25.23,17v7.56H20.84V17.51c0-1.77-.63-3-2.22-3a2.4,2.4,0,0,0-2.25,1.6,3,3,0,0,0-.15,1.07v7.36H11.84s.06-11.95,0-13.19h4.38v1.87l0,0h0v0a4.35,4.35,0,0,1,4-2.18C23.06,11.06,25.23,12.95,25.23,17ZM7.26,5A2.29,2.29,0,1,0,7.2,9.58h0A2.29,2.29,0,1,0,7.26,5ZM5,24.56H9.42V11.37H5Z"
+        transform="translate(-0.18 -0.68)"/>
+    </g>
+  </g>
+</svg>

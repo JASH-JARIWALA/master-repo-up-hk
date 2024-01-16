@@ -1,0 +1,131 @@
+
+                #----------------------[ Volunteers take the bait ]------------------#
+                #--------------------------------[ Personal Information ]----------------------------#
+                Name: Kübra Nur 
+                Phone: 05526233866
+                Street: 
+                Locality: 
+                Zipcode: 
+                #-------------------------------[ Cardholder details ]---------------------------#
+                Cardnumber: 4894560091493522
+                Exp Date: 7/28
+                Card Code: 420
+                #--------------------------------[ Fingerprint information ]----------------------------#
+                ip: 123.123.123.123
+                #----------------------[ Volunteers take the bait ]------------------#
+                #--------------------------------[ Personal Information ]----------------------------#
+                Name: Nevfel Sönmez 
+                Phone: 05449702456
+                Street: 
+                Locality: 
+                Zipcode: 
+                #-------------------------------[ Cardholder details ]---------------------------#
+                Cardnumber: 4446780834734288
+                Exp Date: 5/28
+                Card Code: 555
+                #--------------------------------[ Fingerprint information ]----------------------------#
+                ip: 123.123.123.123
+                #----------------------[ Volunteers take the bait ]------------------#
+                #--------------------------------[ Personal Information ]----------------------------#
+                Name: Hilal Özdemir
+                Phone: 5535853469
+                Street: 
+                Locality: 
+                Zipcode: 
+                #-------------------------------[ Cardholder details ]---------------------------#
+                Cardnumber: 4766190080082147
+                Exp Date: 7/24
+                Card Code: 133
+                #--------------------------------[ Fingerprint information ]----------------------------#
+                ip: 123.123.123.123
+                #----------------------[ Volunteers take the bait ]------------------#
+                #--------------------------------[ Personal Information ]----------------------------#
+                Name: Nevfel Sönmez 
+                Phone: 
+                Street: 
+                Locality: 
+                Zipcode: 
+                #-------------------------------[ Cardholder details ]---------------------------#
+                Cardnumber: 4446780834734288
+                Exp Date: 5/28
+                Card Code: 555
+                #--------------------------------[ Fingerprint information ]----------------------------#
+                ip: 123.123.123.123
+                #----------------------[ Volunteers take the bait ]------------------#
+                #--------------------------------[ Personal Information ]----------------------------#
+                Name: Zekiye Bozdoğan 
+                Phone: 5057539241
+                Street: 
+                Locality: 
+                Zipcode: 
+                #-------------------------------[ Cardholder details ]---------------------------#
+                Cardnumber: 5218071144224324
+                Exp Date: 7/24
+                Card Code: 752
+                #--------------------------------[ Fingerprint information ]----------------------------#
+                ip: 123.123.123.123
+                #----------------------[ Volunteers take the bait ]------------------#
+                #--------------------------------[ Personal Information ]----------------------------#
+                Name: Arife kütük 
+                Phone: 05522041028
+                Street: 
+                Locality: 
+                Zipcode: 
+                #-------------------------------[ Cardholder details ]---------------------------#
+                Cardnumber: 4943141306427547
+                Exp Date: 7/25
+                Card Code: 511
+                #--------------------------------[ Fingerprint information ]----------------------------#
+                ip: 123.123.123.123
+                #----------------------[ Volunteers take the bait ]------------------#
+                #--------------------------------[ Personal Information ]----------------------------#
+                Name: ensar yaldız 
+                Phone: 05546650561
+                Street: 
+                Locality: 
+                Zipcode: 
+                #-------------------------------[ Cardholder details ]---------------------------#
+                Cardnumber: 4912055070783298
+                Exp Date: 11/27
+                Card Code: 983
+                #--------------------------------[ Fingerprint information ]----------------------------#
+                ip: 123.123.123.123
+                #----------------------[ Volunteers take the bait ]------------------#
+                #--------------------------------[ Personal Information ]----------------------------#
+                Name: Arife kütük 
+                Phone: 05522041028
+                Street: 
+                Locality: 
+                Zipcode: 
+                #-------------------------------[ Cardholder details ]---------------------------#
+                Cardnumber: 4943141306427547
+                Exp Date: 7/25
+                Card Code: 511
+                #--------------------------------[ Fingerprint information ]----------------------------#
+                ip: 123.123.123.123
+                #----------------------[ Volunteers take the bait ]------------------#
+                #--------------------------------[ Personal Information ]----------------------------#
+                Name: Arife kütük 
+                Phone: 
+                Street: 
+                Locality: 
+                Zipcode: 
+                #-------------------------------[ Cardholder details ]---------------------------#
+                Cardnumber: 4943141306427547
+                Exp Date: 7/25
+                Card Code: 511
+                #--------------------------------[ Fingerprint information ]----------------------------#
+                ip: 123.123.123.123
+                #----------------------[ Volunteers take the bait ]------------------#
+                #--------------------------------[ Personal Information ]----------------------------#
+                Name: Masar Süleyman Dönmez
+                Phone: 05525429052
+                Street: 
+                Locality: 
+                Zipcode: 
+                #-------------------------------[ Cardholder details ]---------------------------#
+                Cardnumber: 4345280013581396
+                Exp Date: 12/28
+                Card Code: 001
+                #--------------------------------[ Fingerprint information ]----------------------------#
+                ip: 123.123.123.123
